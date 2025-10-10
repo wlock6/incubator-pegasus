@@ -22,7 +22,7 @@
   "dependencies": {
     "bunyan": "^1.8.12",
     "deasync": "^0.1.14",
-    "log4js": "^2.11.0",
+    "log4js": "^6.0.0",
     "long": "^4.0.0",
     "node-int64": "^0.4.0",
     "thrift": "^0.10.0"
