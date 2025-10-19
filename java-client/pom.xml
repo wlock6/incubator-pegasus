@@ -62,7 +62,7 @@
     <junit.jupiter.engine.version>5.9.3</junit.jupiter.engine.version>
     <guava.version>32.0.0-jre</guava.version>
     <mockito.version>2.24.5</mockito.version>
-    <dropwizard.version>3.1.2</dropwizard.version>
+    <dropwizard.version>3.2.6</dropwizard.version>
     <slf4j.version>1.7.36</slf4j.version>
     <apache.commons.lang3.version>3.18.0</apache.commons.lang3.version>
     <json.version>20231013</json.version>
